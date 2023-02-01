@@ -56,25 +56,3 @@ form button {
     cursor: pointer;
     border-radius: 6px;
 }
-
-.mensagem-sucesso {
-    background-color: #074e25;
-    padding: 16px;
-    color:#fff;
-    display: none;
-}
-
-.error-mensagem {
-    font-size: 12px;
-    padding: 8px;
-    background-color:#d80000;
-    color: #fff;
-    margin-bottom: 8px;
-    display: none;
-}
-
-input.error {
-    color: #d80000;
-    border-color: #d80000;
-    outline-color: #d80000;
-}
